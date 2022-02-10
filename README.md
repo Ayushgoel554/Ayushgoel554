@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 How to reach me  [<img align="center" alt="Ayush | LinkedIn" width="62px" height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-- ⚡ Fun fact: I am a  Super Saiyyan 😜
+
 <br/>
 <br/>
 
