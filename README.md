@@ -14,7 +14,7 @@ How to reach me  [<img align="center" alt="Ayush | LinkedIn" width="62px" height
 <div align="left">
   <a href="https://www.linkedin.com/in/ayush-goel-166653193/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
- <a href="https://www.hackerrank.com/ayush_goel_cs_22"> <img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a><a href="https://leetcode.com/user1886w/"> <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color/></a>
+ <a href="https://www.hackerrank.com/ayush_goel_cs_22"> <img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 
 </div>
 
