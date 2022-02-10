@@ -21,7 +21,6 @@ How to reach me  [<img align="center" alt="Ayush | LinkedIn" width="62px" height
 <br/>
 <br/>
 
-## My Github Stats 🚀
 
 
 [linkedin]: https://www.linkedin.com/in/ayush-goel-166653193/
