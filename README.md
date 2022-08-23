@@ -1,3 +1,6 @@
+### Hey there I'm YASH :grinning:
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+## I'm an engineering Student !! 
 - 👋 Hi, I’m @Ayushgoel554
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
